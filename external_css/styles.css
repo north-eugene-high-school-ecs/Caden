@@ -1,0 +1,20 @@
+<style>
+#borderimg { 
+border: dashed 5px;
+padding: 15px;
+border-color: blue }
+p {
+font-family: "arial"}
+h1{
+font-family: "palatino";
+color: green;}
+h2{
+  font-family: "courier";
+  color: pink;}
+p.fancy { 
+border-style: solid;
+border-width: medium;
+border-color: orange;
+background-color: yellow;
+ }
+</style>
